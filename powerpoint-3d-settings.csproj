@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>powerpoint-3d-settings</AssemblyName>
+    <OutputType>Exe</OutputType>
+    <PackageId>powerpoint-3d-settings</PackageId>
+  </PropertyGroup>
+
+</Project>
